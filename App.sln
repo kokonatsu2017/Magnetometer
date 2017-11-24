@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagneticDetector", "MagneticDetector\MagneticDetector.csproj", "{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|Any CPU = Release|Any CPU
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|iPhone.Deploy.0 = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Debug|iPhoneSimulator.Deploy.0 = Debug|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|iPhone.Build.0 = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|iPhone.Deploy.0 = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{09232B56-BA5C-4AAD-938A-7D9BF34FB3C0}.Release|iPhoneSimulator.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D382084-FD17-477A-949A-A9C0E5530FC3}
+	EndGlobalSection
+EndGlobal
